@@ -8,16 +8,16 @@
 
 ## 스벨트
 
-- Satisfaction
-
+Satisfaction
 ![image-20220210135606068](리액트vs스벨트.assets/image-20220210135606068.png)
 
-- Interest
-  ![image-20220210135631613](리액트vs스벨트.assets/image-20220210135631613.png)
-- Usage
-  ![image-20220210135653765](리액트vs스벨트.assets/image-20220210135653765.png)
-- Awareness
+Interest
+![image-20220210135631613](리액트vs스벨트.assets/image-20220210135631613.png)
 
+Usage
+![image-20220210135653765](리액트vs스벨트.assets/image-20220210135653765.png)
+
+Awareness
 ![image-20220210135713114](리액트vs스벨트.assets/image-20220210135713114.png)
 
 
