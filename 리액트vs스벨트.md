@@ -2,7 +2,7 @@
 
 ## 프론트엔드 프레임워크
 
-![image-20220210135304548](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135304548.png)
+![image-20220210135304548](리액트vs스벨트.assets/image-20220210135304548.png)
 
 
 
@@ -10,26 +10,26 @@
 
 - Satisfaction
 
-![image-20220210135606068](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135606068.png)
+![image-20220210135606068](리액트vs스벨트.assets/image-20220210135606068.png)
 
 - Interest
-  ![image-20220210135631613](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135631613.png)
+  ![image-20220210135631613](리액트vs스벨트.assets/image-20220210135631613.png)
 - Usage
-  ![image-20220210135653765](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135653765.png)
+  ![image-20220210135653765](리액트vs스벨트.assets/image-20220210135653765.png)
 - Awareness
 
-![image-20220210135713114](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135713114.png)
+![image-20220210135713114](리액트vs스벨트.assets/image-20220210135713114.png)
 
 
 
-- ![image-20220209105555345](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220209105555345.png)
+- ![image-20220209105555345](리액트vs스벨트.assets/image-20220209105555345.png)
 
 - 2016년 출시 - Rich Harris 개발
 
 - 현재 사용 하는 곳 - 뉴욕 타임스, 어베스트, 스포티파이, SEM러시, 체스 등
 
 - 코드 간결, 가상 돔 x, 진짜 반응성
-  ![image-20220210135522101](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220210135522101.png)
+  ![image-20220210135522101](리액트vs스벨트.assets/image-20220210135522101.png)
 
 - 프론트앤드 프레임워크라고 하지만 - 컴파일러에 가깝다 -> 용량 작음
 
@@ -48,7 +48,7 @@
   |                                      | 비표준적인 모습들 {#each} or {#if} 등등         |
   |                                      | 쓸데없는 라이브러리 포함? 트랜지션 애니메이션등 |
 
-- ![image-20220209111220877](d:\deok2\Desktop\svelte\svelte-todo-app2\스벨트vs리액트.assets\image-20220209111220877.png)
+- ![image-20220209111220877](리액트vs스벨트.assets/image-20220209111220877.png)
 
 - |           | 스벨트                                                       | 리액트                                                       |
   | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
